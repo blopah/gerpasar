@@ -1,4 +1,4 @@
-# INICIO FUNCOES
+# INICIO FUNCOESS
 import smbclient
 # import smbprotocol
 # import subprocess
